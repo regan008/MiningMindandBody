@@ -1,0 +1,2 @@
+topic_words_weight.txt filter=lfs diff=lfs merge=lfs -text
+mallet_output_files/topic_words_weight.txt filter=lfs diff=lfs merge=lfs -text

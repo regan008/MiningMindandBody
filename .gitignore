@@ -1,0 +1,11 @@
+*.Rproj.user
+*.Rhistory
+*.RData
+*.docx
+*.md
+*.Rmd
+*.html
+*.png
+digsh_paper_files/**
+*.DS-Store
+paper/**
